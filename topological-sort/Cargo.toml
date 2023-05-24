@@ -1,5 +1,5 @@
 [package]
-name = "first_project"
+name = "topological_sort"
 version = "0.1.0"
 authors = ["Luz Morales <luzmoralesjimenez@hotmail.com"]
 
